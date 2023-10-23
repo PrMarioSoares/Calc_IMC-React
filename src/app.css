@@ -1,0 +1,10 @@
+.container {
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ gap: 20px;
+ margin-top: 65px;
+ //background-image: linear-gradient(#1D59FF, #244BC5, #1e0bd0,#2510a3);
+
+}
